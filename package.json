@@ -1,0 +1,11 @@
+{
+  "name": "assisted-living-cost-guide",
+  "version": "1.0.0",
+  "description": "Cost of Assisted Living in 2026: 7 Best Options for Premium Senior Care",
+  "private": true,
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": ["assisted living", "senior care", "cost analysis", "elder care", "India"],
+  "license": "MIT"
+}
